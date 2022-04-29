@@ -1,0 +1,78 @@
+body{
+	background-color:rgb(230,230,230);
+	color:rgb(30,30,30) :
+}
+h1,h2,h3{
+font-family: :courier;
+}
+h1{
+	color:red;
+	font-size:32px;
+
+}
+h2{
+	color:rgb(100,100,100);
+	font-size:24px;
+	font-weight: lighter;
+
+}
+a {
+ font-family: 'Roboto', sans-serif;
+ text-decoration: none;
+ color: #7071CA;
+ font-weight:700;
+ font-size: 16px;
+ transition: color 0.3s ease;/*wa9t el talwin*/
+
+}
+a:hover {
+ color:blue;
+ text-decoration: underline;
+
+}
+.img-circle {
+ width:100px;
+ border-radius:50%;
+ border:3px solid green;
+ height: 100px;
+}
+#page {
+ width: 700px;
+    margin: 40px auto;
+}
+ .title {
+  background: white;
+     padding: 60px;
+     margin: 50px;
+     box-shadow: 0 10px 30px rgb(0 0 0 / 10%);
+     border-radius: 5px;
+     border-top: 1px solid rgba(0, 0, 0, 0.1); /* elegant border: thin and subtle */
+
+ }
+.container {
+ width: 700px;
+ margin: 40px auto;
+}
+.card-white {
+ background-color:whitesmoke ;
+ padding: 40px;
+ box-shadow: 0px 10px 30px #725D68;
+ border-radius: 4px;
+ margin: 20px 0px;
+ text-align: center;
+
+}
+.btn-bleu { 
+ background-color: #7071CA ;
+ color: white;
+ padding: 15px 20px;
+ border-radius: 4px;
+}
+btn-bleu:hover{
+	background-color:black;
+	color:white;
+}
+#introduction p{
+margin-bottom:40px;
+}
+
